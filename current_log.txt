@@ -1,0 +1,1172 @@
+Mon Feb 06 11:55:20 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Mon Feb 06 11:55:21 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Mon Feb 06 11:55:21 EST 2023 DATA se.d Build model matches: true 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Mon Feb 06 11:55:21 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Mon Feb 06 11:55:21 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Mon Feb 06 11:55:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Mon Feb 06 11:55:23 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Mon Feb 06 11:55:23 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Mon Feb 06 11:55:23 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Mon Feb 06 11:55:23 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Feb 06 11:55:23 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Feb 06 11:55:23 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Mon Feb 06 11:55:23 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Mon Feb 06 11:55:23 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Mon Feb 06 11:55:23 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Mon Feb 06 11:55:23 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Mon Feb 06 11:55:23 EST 2023 DATA DeviceAndApplicationInfo Pre: false 
+Mon Feb 06 11:55:23 EST 2023 DATA DeviceAndApplicationInfo Pre: true 
+Mon Feb 06 11:55:23 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Mon Feb 06 11:55:23 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Mon Feb 06 11:55:23 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Feb 06 11:55:23 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Mon Feb 06 11:55:23 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Feb 06 11:55:23 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Feb 06 11:55:23 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Mon Feb 06 11:55:23 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Mon Feb 06 11:55:23 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Mon Feb 06 11:55:23 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Mon Feb 06 11:55:23 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Mon Feb 06 11:55:23 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Mon Feb 06 11:55:23 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Mon Feb 06 11:55:23 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Feb 06 11:55:23 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Mon Feb 06 11:55:23 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Mon Feb 06 11:55:23 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Mon Feb 06 11:55:23 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:26:13.000 and 29:26:13.000 from now 
+Mon Feb 06 11:55:23 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Mon Feb 06 11:55:23 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Mon Feb 06 11:55:23 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 698 
+Mon Feb 06 11:55:23 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Mon Feb 06 11:55:23 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Mon Feb 06 11:55:23 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Mon Feb 06 11:55:23 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Mon Feb 06 11:55:23 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Mon Feb 06 11:55:23 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Mon Feb 06 11:55:23 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Mon Feb 06 11:55:24 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Mon Feb 06 11:56:28 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1675702521 now: 1675702588 time to merge: 4 (:0) 
+Wed Feb 08 12:06:01 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Wed Feb 08 12:06:01 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Wed Feb 08 12:06:01 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Wed Feb 08 12:06:02 EST 2023 DATA se.d Build model matches: true 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Wed Feb 08 12:06:02 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Wed Feb 08 12:06:02 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Feb 08 12:06:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Wed Feb 08 12:06:03 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Wed Feb 08 12:06:03 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Wed Feb 08 12:06:03 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Wed Feb 08 12:06:03 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Feb 08 12:06:03 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Feb 08 12:06:03 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Wed Feb 08 12:06:03 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Wed Feb 08 12:06:03 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Wed Feb 08 12:06:03 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Wed Feb 08 12:06:03 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Wed Feb 08 12:06:03 EST 2023 DATA DeviceAndApplicationInfo Pre: false 
+Wed Feb 08 12:06:03 EST 2023 DATA DeviceAndApplicationInfo Pre: true 
+Wed Feb 08 12:06:04 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Wed Feb 08 12:06:04 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Wed Feb 08 12:06:04 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Wed Feb 08 12:06:04 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Feb 08 12:06:04 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Wed Feb 08 12:06:04 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Feb 08 12:06:04 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Feb 08 12:06:04 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Wed Feb 08 12:06:04 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Wed Feb 08 12:06:04 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Wed Feb 08 12:06:04 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Wed Feb 08 12:06:04 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Wed Feb 08 12:06:04 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Wed Feb 08 12:06:04 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Feb 08 12:06:04 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Wed Feb 08 12:06:04 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Wed Feb 08 12:06:04 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Wed Feb 08 12:06:04 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:39:25.000 and 29:39:25.000 from now 
+Wed Feb 08 12:06:04 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Wed Feb 08 12:06:04 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Wed Feb 08 12:06:04 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 734 
+Wed Feb 08 12:06:04 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Wed Feb 08 12:06:04 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Wed Feb 08 12:06:04 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Wed Feb 08 12:06:04 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Wed Feb 08 12:06:04 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Wed Feb 08 12:06:04 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Wed Feb 08 12:06:04 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Wed Feb 08 12:06:04 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Wed Feb 08 12:07:21 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1675875962 now: 1675876041 time to merge: 3 (:0) 
+Fri Feb 10 11:49:06 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Fri Feb 10 11:49:06 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Fri Feb 10 11:50:00 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Fri Feb 10 11:50:01 EST 2023 DATA se.d Build model matches: true 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Fri Feb 10 11:50:01 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Fri Feb 10 11:50:01 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Feb 10 11:50:01 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Fri Feb 10 11:50:21 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Fri Feb 10 11:50:21 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Fri Feb 10 11:50:21 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Sun Feb 12 11:16:26 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Sun Feb 12 11:16:26 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Sun Feb 12 11:18:58 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Tue Feb 14 11:34:01 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Tue Feb 14 11:34:01 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Tue Feb 14 11:34:01 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Tue Feb 14 11:34:02 EST 2023 DATA se.d Build model matches: true 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Tue Feb 14 11:34:02 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Feb 14 11:34:02 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Feb 14 11:34:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Tue Feb 14 11:34:03 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Tue Feb 14 11:34:03 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Tue Feb 14 11:34:03 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Tue Feb 14 11:34:04 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 14 11:34:04 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 14 11:34:04 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Tue Feb 14 11:34:04 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Tue Feb 14 11:34:04 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Tue Feb 14 11:34:04 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Tue Feb 14 11:34:04 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Tue Feb 14 11:34:04 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Tue Feb 14 11:34:04 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Tue Feb 14 11:34:04 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Tue Feb 14 11:34:04 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Tue Feb 14 11:34:04 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Tue Feb 14 11:34:04 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Tue Feb 14 11:34:04 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Tue Feb 14 11:34:04 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Tue Feb 14 11:34:04 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Tue Feb 14 11:34:04 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 14 11:34:04 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Tue Feb 14 11:34:04 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Tue Feb 14 11:34:04 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Tue Feb 14 11:34:04 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:45:34.000 and 29:45:34.000 from now 
+Tue Feb 14 11:34:04 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Tue Feb 14 11:34:04 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 834 
+Tue Feb 14 11:34:04 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Tue Feb 14 11:34:04 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Tue Feb 14 11:34:05 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Tue Feb 14 11:34:05 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Tue Feb 14 11:34:05 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Tue Feb 14 11:34:05 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Tue Feb 14 11:34:05 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Tue Feb 14 11:34:05 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Tue Feb 14 11:35:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1676392442 now: 1676392502 time to merge: 1 (:0) 
+Wed Feb 15 11:23:02 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Wed Feb 15 11:23:02 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Wed Feb 15 11:23:07 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Wed Feb 15 11:23:14 EST 2023 DATA se.d Build model matches: true 
+Wed Feb 15 11:23:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Wed Feb 15 11:23:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Wed Feb 15 11:23:14 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Wed Feb 15 11:23:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Wed Feb 15 11:23:14 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Wed Feb 15 11:23:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Wed Feb 15 11:23:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Wed Feb 15 11:23:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Feb 15 11:23:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Feb 15 11:23:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Feb 15 11:23:20 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Wed Feb 15 11:24:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Feb 15 11:24:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Feb 15 11:24:13 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Wed Feb 15 11:24:13 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Feb 15 11:24:13 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Feb 15 11:24:13 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Feb 15 11:24:13 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Feb 15 11:24:13 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Wed Feb 15 11:34:50 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Wed Feb 15 11:34:50 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Wed Feb 15 11:34:50 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Wed Feb 15 11:34:50 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Feb 15 11:34:50 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Feb 15 11:34:50 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Wed Feb 15 11:34:50 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Wed Feb 15 11:34:50 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Wed Feb 15 11:34:50 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Wed Feb 15 11:34:50 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Wed Feb 15 11:34:50 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Wed Feb 15 11:34:50 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Wed Feb 15 11:34:50 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Wed Feb 15 11:34:50 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Wed Feb 15 11:34:50 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Wed Feb 15 11:34:50 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Wed Feb 15 11:34:50 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Wed Feb 15 11:34:50 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Wed Feb 15 11:34:50 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Wed Feb 15 11:34:50 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Feb 15 11:34:50 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Wed Feb 15 11:34:50 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Wed Feb 15 11:34:50 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Wed Feb 15 11:34:50 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 24:21:57.000 and 30:21:57.000 from now 
+Wed Feb 15 11:34:50 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Wed Feb 15 11:34:51 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 706 
+Wed Feb 15 11:34:51 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Wed Feb 15 11:34:51 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Wed Feb 15 11:34:51 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Wed Feb 15 11:34:51 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Wed Feb 15 11:34:51 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Wed Feb 15 11:34:51 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Wed Feb 15 11:34:51 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Wed Feb 15 11:34:51 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Wed Feb 15 11:43:09 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1676478194 now: 1676479389 time to merge: 1 (:0) 
+Fri Feb 17 11:39:02 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Fri Feb 17 11:39:03 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Fri Feb 17 11:39:03 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Fri Feb 17 11:39:03 EST 2023 DATA se.d Build model matches: true 
+Fri Feb 17 11:39:03 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Fri Feb 17 11:39:03 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Fri Feb 17 11:39:03 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Fri Feb 17 11:39:03 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Fri Feb 17 11:39:03 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Feb 17 11:39:03 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Fri Feb 17 11:39:03 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Fri Feb 17 11:39:03 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Feb 17 11:39:03 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Feb 17 11:39:03 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Feb 17 11:39:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Fri Feb 17 11:39:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Feb 17 11:39:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Feb 17 11:39:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Fri Feb 17 11:39:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Feb 17 11:39:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Feb 17 11:39:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Feb 17 11:39:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Feb 17 11:39:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Fri Feb 17 11:39:05 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Fri Feb 17 11:39:05 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Fri Feb 17 11:39:05 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Fri Feb 17 11:39:05 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Feb 17 11:39:05 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Feb 17 11:39:05 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Fri Feb 17 11:39:05 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Fri Feb 17 11:39:05 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Fri Feb 17 11:39:05 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Fri Feb 17 11:39:05 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Fri Feb 17 11:39:05 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Fri Feb 17 11:39:05 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 17 11:39:05 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Fri Feb 17 11:39:05 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Fri Feb 17 11:39:05 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Fri Feb 17 11:39:05 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Fri Feb 17 11:39:05 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Fri Feb 17 11:39:05 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Fri Feb 17 11:39:05 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Fri Feb 17 11:39:05 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Feb 17 11:39:05 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Fri Feb 17 11:39:05 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Fri Feb 17 11:39:05 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Fri Feb 17 11:39:05 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:53:53.000 and 29:53:53.000 from now 
+Fri Feb 17 11:39:05 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Fri Feb 17 11:39:05 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 722 
+Fri Feb 17 11:39:05 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 17 11:39:05 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Fri Feb 17 11:39:05 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Fri Feb 17 11:39:06 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 17 11:39:06 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Fri Feb 17 11:39:06 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 17 11:39:06 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Fri Feb 17 11:39:06 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Fri Feb 17 11:40:39 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1676651943 now: 1676652039 time to merge: 3 (:0) 
+Sat Feb 18 11:40:34 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Sat Feb 18 11:40:34 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Sat Feb 18 11:40:34 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Sat Feb 18 11:40:35 EST 2023 DATA se.d Build model matches: true 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Sat Feb 18 11:40:35 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Feb 18 11:40:35 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Feb 18 11:40:35 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Sat Feb 18 11:40:36 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Sat Feb 18 11:40:36 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Sat Feb 18 11:40:36 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Sat Feb 18 11:40:37 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Feb 18 11:40:37 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Feb 18 11:40:37 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Sat Feb 18 11:40:37 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Sat Feb 18 11:40:37 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Sat Feb 18 11:40:37 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Sat Feb 18 11:40:37 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Sat Feb 18 11:40:37 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Sat Feb 18 11:40:37 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Sat Feb 18 11:40:37 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Sat Feb 18 11:40:37 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sat Feb 18 11:40:37 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Sat Feb 18 11:40:37 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Sat Feb 18 11:40:37 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Sat Feb 18 11:40:37 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Sat Feb 18 11:40:37 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Sat Feb 18 11:40:37 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Feb 18 11:40:37 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Sat Feb 18 11:40:37 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Sat Feb 18 11:40:37 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Sat Feb 18 11:40:37 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 24:04:19.000 and 30:04:19.000 from now 
+Sat Feb 18 11:40:37 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Sat Feb 18 11:40:38 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 980 
+Sat Feb 18 11:40:38 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sat Feb 18 11:40:38 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Sat Feb 18 11:40:38 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Sat Feb 18 11:40:38 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Sat Feb 18 11:40:38 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Sat Feb 18 11:40:38 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Sat Feb 18 11:40:38 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Sat Feb 18 11:40:38 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Sat Feb 18 11:45:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1676738435 now: 1676738702 time to merge: 1 (:0) 
+Fri Feb 24 11:51:09 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Fri Feb 24 11:51:10 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Fri Feb 24 11:51:10 EST 2023 DATA se.d Build model matches: true 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Fri Feb 24 11:51:10 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Fri Feb 24 11:51:10 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Feb 24 11:51:10 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Fri Feb 24 11:51:11 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Fri Feb 24 11:51:11 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Fri Feb 24 11:51:11 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Fri Feb 24 11:51:12 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Feb 24 11:51:12 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Feb 24 11:51:12 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Fri Feb 24 11:51:12 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Fri Feb 24 11:51:12 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Fri Feb 24 11:51:12 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Fri Feb 24 11:51:12 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Fri Feb 24 11:51:12 EST 2023 DATA DeviceAndApplicationInfo Pre: false 
+Fri Feb 24 11:51:12 EST 2023 DATA DeviceAndApplicationInfo Pre: true 
+Fri Feb 24 11:51:12 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Feb 24 11:51:12 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Fri Feb 24 11:51:12 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Feb 24 11:51:12 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Feb 24 11:51:12 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 24 11:51:12 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 24 11:51:12 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Fri Feb 24 11:51:12 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Fri Feb 24 11:51:12 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Fri Feb 24 11:51:12 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Fri Feb 24 11:51:12 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Fri Feb 24 11:51:12 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Feb 24 11:51:12 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Fri Feb 24 11:51:12 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Fri Feb 24 11:51:12 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Fri Feb 24 11:51:12 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Fri Feb 24 11:51:12 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Fri Feb 24 11:51:12 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Fri Feb 24 11:51:12 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:26:37.000 and 29:26:37.000 from now 
+Fri Feb 24 11:51:12 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Fri Feb 24 11:51:12 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 793 
+Fri Feb 24 11:51:12 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Feb 24 11:51:12 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Fri Feb 24 11:51:12 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Fri Feb 24 11:51:12 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 24 11:51:12 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Fri Feb 24 11:51:12 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Feb 24 11:51:12 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Fri Feb 24 11:51:13 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Fri Feb 24 11:55:20 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1677257470 now: 1677257720 time to merge: 2 (:0) 
+Sun Feb 26 11:21:20 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Sun Feb 26 11:21:20 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Sun Feb 26 11:21:20 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Sun Feb 26 11:21:22 EST 2023 DATA se.d Build model matches: true 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Sun Feb 26 11:21:22 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Sun Feb 26 11:21:22 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sun Feb 26 11:21:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Sun Feb 26 11:21:44 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Sun Feb 26 11:21:44 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Sun Feb 26 11:21:44 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Sun Feb 26 11:21:47 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Feb 26 11:21:47 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Feb 26 11:21:47 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Sun Feb 26 11:21:47 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Sun Feb 26 11:21:47 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Sun Feb 26 11:21:47 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Sun Feb 26 11:21:47 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Sun Feb 26 11:21:47 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Sun Feb 26 11:21:48 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Sun Feb 26 11:21:48 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Sun Feb 26 11:21:48 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Feb 26 11:21:48 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Sun Feb 26 11:21:48 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Sun Feb 26 11:21:48 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Sun Feb 26 11:21:48 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Sun Feb 26 11:21:48 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Sun Feb 26 11:21:48 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sun Feb 26 11:21:48 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Sun Feb 26 11:21:48 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Sun Feb 26 11:21:48 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Sun Feb 26 11:21:48 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:38:15.000 and 29:38:15.000 from now 
+Sun Feb 26 11:21:48 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Sun Feb 26 11:21:56 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Sun Feb 26 11:21:56 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 8619 
+Sun Feb 26 11:21:56 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sun Feb 26 11:21:56 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Sun Feb 26 11:21:56 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Sun Feb 26 11:21:56 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Sun Feb 26 11:21:56 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Sun Feb 26 11:21:56 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Sun Feb 26 11:21:56 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Sun Feb 26 11:22:22 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1677428482 now: 1677428542 time to merge: 5 (:0) 
+Tue Feb 28 04:54:26 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Tue Feb 28 04:54:27 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Tue Feb 28 04:54:27 EST 2023 DATA se.d Build model matches: true 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Tue Feb 28 04:54:27 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Tue Feb 28 04:54:27 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Feb 28 04:54:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Tue Feb 28 04:54:29 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Tue Feb 28 04:54:29 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Tue Feb 28 04:54:29 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Tue Feb 28 04:54:29 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 28 04:54:29 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 28 04:54:29 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Tue Feb 28 04:54:29 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Tue Feb 28 04:54:29 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Tue Feb 28 04:54:30 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Tue Feb 28 04:54:30 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Tue Feb 28 04:54:30 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 134 
+Tue Feb 28 04:54:30 EST 2023 DATA SamsungMigrationStateBroadcastReceiver Received SA Migration state Unknown 
+Tue Feb 28 04:54:30 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Tue Feb 28 04:54:30 EST 2023 DATA SamsungAuthUtils Migration state sync - Unknown 
+Tue Feb 28 04:54:30 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Tue Feb 28 04:54:30 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Tue Feb 28 04:54:30 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Tue Feb 28 04:54:30 EST 2023 DATA SamsungAuthUtils logMigrationStateChangeQos was invoked on a state update, but no QoS logging is performed because state change was Unknown->Unknown 
+Tue Feb 28 04:54:30 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Tue Feb 28 04:54:30 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Tue Feb 28 04:54:30 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Tue Feb 28 04:54:30 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Tue Feb 28 04:54:30 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Tue Feb 28 04:54:30 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Tue Feb 28 04:54:30 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Tue Feb 28 04:54:31 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Tue Feb 28 04:54:42 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1677578067 now: 1677578082 time to merge: 7 (:0) 
+Tue Feb 28 04:55:51 EST 2023 DATA AccountChangeListener (ACCOUNT CHANGE) Triggered by AccountsUpdateListener 
+Tue Feb 28 11:57:02 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Tue Feb 28 11:57:02 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Tue Feb 28 11:57:03 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Tue Feb 28 11:57:03 EST 2023 DATA se.d Build model matches: true 
+Tue Feb 28 11:57:03 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Tue Feb 28 11:57:03 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Tue Feb 28 11:57:03 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Feb 28 11:57:04 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Feb 28 11:57:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Tue Feb 28 11:57:05 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Tue Feb 28 11:57:05 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Tue Feb 28 11:57:05 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Tue Feb 28 11:57:07 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 28 11:57:07 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 28 11:57:07 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Tue Feb 28 11:57:07 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Tue Feb 28 11:57:07 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Tue Feb 28 11:57:07 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Tue Feb 28 11:57:07 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Tue Feb 28 11:57:07 EST 2023 DATA DeviceAndApplicationInfo Pre: false 
+Tue Feb 28 11:57:07 EST 2023 DATA DeviceAndApplicationInfo Pre: true 
+Tue Feb 28 11:57:07 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 28 11:57:07 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Tue Feb 28 11:57:07 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 28 11:57:07 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 28 11:57:07 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Tue Feb 28 11:57:07 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Tue Feb 28 11:57:07 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Tue Feb 28 11:57:07 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Tue Feb 28 11:57:07 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Tue Feb 28 11:57:07 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Tue Feb 28 11:57:07 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Tue Feb 28 11:57:07 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Tue Feb 28 11:57:07 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Tue Feb 28 11:57:07 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Feb 28 11:57:07 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Tue Feb 28 11:57:07 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Tue Feb 28 11:57:07 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Tue Feb 28 11:57:07 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Tue Feb 28 11:57:07 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:29:01.000 and 29:29:01.000 from now 
+Tue Feb 28 11:57:07 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Tue Feb 28 11:57:08 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 821 
+Tue Feb 28 11:57:08 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Tue Feb 28 11:57:08 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Tue Feb 28 11:57:08 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Tue Feb 28 11:57:08 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Tue Feb 28 11:57:08 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Tue Feb 28 11:57:08 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Tue Feb 28 11:57:08 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Tue Feb 28 11:57:08 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Tue Feb 28 11:58:57 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1677603424 now: 1677603537 time to merge: 3 (:0) 
+Wed Mar 01 11:26:11 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Wed Mar 01 11:26:11 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Wed Mar 01 11:26:11 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Wed Mar 01 11:26:12 EST 2023 DATA se.d Build model matches: true 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Wed Mar 01 11:26:12 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Mar 01 11:26:12 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Mar 01 11:26:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Wed Mar 01 11:26:13 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Wed Mar 01 11:26:13 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Wed Mar 01 11:26:13 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Wed Mar 01 11:26:13 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Mar 01 11:26:13 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Mar 01 11:26:13 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Wed Mar 01 11:26:13 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Wed Mar 01 11:26:13 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Wed Mar 01 11:26:13 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Wed Mar 01 11:26:13 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Wed Mar 01 11:26:13 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Wed Mar 01 11:26:13 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Wed Mar 01 11:26:13 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Wed Mar 01 11:26:13 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Wed Mar 01 11:26:13 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Wed Mar 01 11:26:13 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Wed Mar 01 11:26:13 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Wed Mar 01 11:26:13 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Wed Mar 01 11:26:13 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Wed Mar 01 11:26:13 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Wed Mar 01 11:26:13 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Wed Mar 01 11:26:13 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Wed Mar 01 11:26:13 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Wed Mar 01 11:26:13 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 24:14:34.000 and 30:14:34.000 from now 
+Wed Mar 01 11:26:13 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Wed Mar 01 11:26:14 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 830 
+Wed Mar 01 11:26:14 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Wed Mar 01 11:26:14 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Wed Mar 01 11:26:14 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Wed Mar 01 11:26:14 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Wed Mar 01 11:26:14 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Wed Mar 01 11:26:14 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Wed Mar 01 11:26:14 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Wed Mar 01 11:26:14 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Wed Mar 01 11:43:49 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1677687972 now: 1677689029 time to merge: 2 (:0) 
+Thu Mar 02 11:41:00 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Thu Mar 02 11:41:02 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Thu Mar 02 11:41:10 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Thu Mar 02 11:41:47 EST 2023 DATA se.d Build model matches: true 
+Thu Mar 02 11:41:50 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Thu Mar 02 11:41:50 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Thu Mar 02 11:41:50 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Mar 02 11:41:59 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Thu Mar 02 11:41:59 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Mar 02 11:42:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Thu Mar 02 11:42:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Thu Mar 02 11:42:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Mar 02 11:42:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Mar 02 11:42:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Mar 02 11:42:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Thu Mar 02 11:42:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Thu Mar 02 11:42:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Thu Mar 02 11:42:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Thu Mar 02 11:42:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Thu Mar 02 11:42:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Thu Mar 02 11:42:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Thu Mar 02 11:42:07 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Thu Mar 02 11:42:07 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Thu Mar 02 11:42:38 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Thu Mar 02 11:42:38 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Thu Mar 02 11:42:38 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Thu Mar 02 11:42:38 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Thu Mar 02 11:42:38 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Thu Mar 02 11:42:38 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Thu Mar 02 11:42:38 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Thu Mar 02 11:42:38 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:44:41.000 and 29:44:41.000 from now 
+Thu Mar 02 11:42:38 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Thu Mar 02 11:42:38 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Thu Mar 02 11:42:38 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Thu Mar 02 11:42:38 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Thu Mar 02 11:42:38 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Thu Mar 02 11:42:38 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Thu Mar 02 11:42:38 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Thu Mar 02 11:42:38 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Thu Mar 02 11:42:39 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 858 
+Thu Mar 02 11:42:39 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Thu Mar 02 11:42:39 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Thu Mar 02 11:42:39 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Thu Mar 02 11:42:39 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Thu Mar 02 11:42:39 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Thu Mar 02 11:42:39 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Thu Mar 02 11:42:39 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Thu Mar 02 11:42:39 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Thu Mar 02 11:43:41 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1677775319 now: 1677775421 time to merge: 1 (:0) 
+Fri Mar 03 11:27:27 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Fri Mar 03 11:27:27 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Fri Mar 03 11:28:33 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Fri Mar 03 11:30:27 EST 2023 DATA se.d Build model matches: true 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Fri Mar 03 11:30:27 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Fri Mar 03 11:30:27 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Fri Mar 03 11:30:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Fri Mar 03 11:32:34 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Fri Mar 03 11:32:34 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Fri Mar 03 11:32:34 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Fri Mar 03 11:33:46 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Fri Mar 03 11:33:46 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Mar 03 11:33:46 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Mar 03 11:33:46 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Fri Mar 03 11:33:47 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Fri Mar 03 11:33:47 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Fri Mar 03 11:33:47 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Fri Mar 03 11:33:47 EST 2023 DATA DeviceAndApplicationInfo Pre: false 
+Fri Mar 03 11:33:47 EST 2023 DATA DeviceAndApplicationInfo Pre: true 
+Fri Mar 03 11:33:47 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Fri Mar 03 11:33:47 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Fri Mar 03 11:33:47 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Mar 03 11:33:47 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Fri Mar 03 11:33:47 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Mar 03 11:33:47 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Mar 03 11:33:47 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Mar 03 11:33:47 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Mar 03 11:33:47 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Fri Mar 03 11:33:47 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Fri Mar 03 11:33:47 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Fri Mar 03 11:33:47 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Fri Mar 03 11:33:47 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Fri Mar 03 11:33:47 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Fri Mar 03 11:33:47 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Fri Mar 03 11:33:47 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Fri Mar 03 11:33:47 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Fri Mar 03 11:33:47 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Fri Mar 03 11:33:47 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 24:02:56.000 and 30:02:56.000 from now 
+Fri Mar 03 11:33:47 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Fri Mar 03 11:38:45 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Fri Mar 03 11:39:38 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 351337 
+Fri Mar 03 11:39:38 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Fri Mar 03 11:39:38 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Fri Mar 03 11:39:43 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Fri Mar 03 11:39:43 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Mar 03 11:39:43 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Fri Mar 03 11:39:43 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Fri Mar 03 11:39:43 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Fri Mar 03 11:40:51 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1677861027 now: 1677861651 time to merge: 2 (:0) 
+Sat Mar 04 11:39:25 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Sat Mar 04 11:39:26 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Sat Mar 04 11:39:26 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Sat Mar 04 11:39:54 EST 2023 DATA se.d Build model matches: true 
+Sat Mar 04 11:40:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Sat Mar 04 11:40:02 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Sat Mar 04 11:40:02 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Sat Mar 04 11:40:04 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Sat Mar 04 11:40:08 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sat Mar 04 11:40:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Sat Mar 04 11:40:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Sat Mar 04 11:40:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Mar 04 11:40:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Mar 04 11:40:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Mar 04 11:40:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Sat Mar 04 11:40:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Mar 04 11:40:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Mar 04 11:40:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Sat Mar 04 11:40:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Mar 04 11:40:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Mar 04 11:40:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Mar 04 11:40:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Mar 04 11:40:14 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Sat Mar 04 11:41:05 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Sat Mar 04 11:41:05 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1677948005 now: 1677948065 time to merge: 3 (:0) 
+Sat Mar 04 11:41:05 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Sat Mar 04 11:41:05 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Tue Mar 07 11:27:06 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Tue Mar 07 11:27:06 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Tue Mar 07 11:27:18 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Tue Mar 07 11:27:45 EST 2023 DATA se.d Build model matches: true 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Tue Mar 07 11:27:45 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Tue Mar 07 11:27:45 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Tue Mar 07 11:27:45 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Tue Mar 07 11:27:46 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Tue Mar 07 11:27:46 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Tue Mar 07 11:27:46 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Tue Mar 07 11:27:47 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Mar 07 11:27:47 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Tue Mar 07 11:27:47 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Tue Mar 07 11:27:47 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:51:14.000 and 29:51:14.000 from now 
+Tue Mar 07 11:27:47 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Tue Mar 07 11:27:47 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Tue Mar 07 11:27:47 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Tue Mar 07 11:27:47 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Tue Mar 07 11:27:47 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Tue Mar 07 11:27:47 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Tue Mar 07 11:27:47 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Tue Mar 07 11:27:47 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Tue Mar 07 11:27:47 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Tue Mar 07 11:27:47 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 727 
+Tue Mar 07 11:27:47 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Tue Mar 07 11:27:47 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Tue Mar 07 11:27:47 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Tue Mar 07 11:27:47 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Tue Mar 07 11:27:47 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Tue Mar 07 11:27:47 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Tue Mar 07 11:27:47 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Tue Mar 07 11:27:48 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Tue Mar 07 11:28:06 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1678206465 now: 1678206486 time to merge: 3 (:0) 
+Wed Mar 08 11:19:35 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Wed Mar 08 11:19:35 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Wed Mar 08 11:19:48 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Wed Mar 08 11:20:09 EST 2023 DATA se.d Build model matches: true 
+Wed Mar 08 11:20:15 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Wed Mar 08 11:20:15 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Wed Mar 08 11:20:15 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Wed Mar 08 11:20:18 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Wed Mar 08 11:20:24 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Wed Mar 08 11:20:24 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Wed Mar 08 11:20:24 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Wed Mar 08 11:20:24 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Mar 08 11:20:24 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Mar 08 11:20:24 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Wed Mar 08 11:20:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Wed Mar 08 11:20:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Mar 08 11:20:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Mar 08 11:20:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Wed Mar 08 11:20:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Mar 08 11:20:27 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Mar 08 11:20:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Wed Mar 08 11:20:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Wed Mar 08 11:20:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Wed Mar 08 11:21:30 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Wed Mar 08 11:21:30 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Wed Mar 08 11:21:30 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Thu Mar 09 11:49:29 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Thu Mar 09 11:49:30 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Thu Mar 09 11:49:30 EST 2023 DATA se.d Build model matches: true 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Thu Mar 09 11:49:30 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Thu Mar 09 11:49:30 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Thu Mar 09 11:49:30 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Thu Mar 09 11:49:32 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Thu Mar 09 11:49:32 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Thu Mar 09 11:49:32 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Thu Mar 09 11:49:32 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Thu Mar 09 11:49:32 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Thu Mar 09 11:49:32 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Thu Mar 09 11:49:32 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Thu Mar 09 11:49:32 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Thu Mar 09 11:49:32 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Thu Mar 09 11:49:32 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Thu Mar 09 11:49:32 EST 2023 DATA DeviceAndApplicationInfo Pre: false 
+Thu Mar 09 11:49:32 EST 2023 DATA DeviceAndApplicationInfo Pre: true 
+Thu Mar 09 11:49:32 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Thu Mar 09 11:49:32 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Thu Mar 09 11:49:32 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Thu Mar 09 11:49:32 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Thu Mar 09 11:49:32 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Thu Mar 09 11:49:32 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Thu Mar 09 11:49:32 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Thu Mar 09 11:49:32 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Thu Mar 09 11:49:32 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Thu Mar 09 11:49:32 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Thu Mar 09 11:49:32 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Thu Mar 09 11:49:32 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Thu Mar 09 11:49:32 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Thu Mar 09 11:49:32 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Thu Mar 09 11:49:32 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Thu Mar 09 11:49:32 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Thu Mar 09 11:49:32 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Thu Mar 09 11:49:32 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Thu Mar 09 11:49:32 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:21:42.000 and 29:21:42.000 from now 
+Thu Mar 09 11:49:32 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Thu Mar 09 11:49:33 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 856 
+Thu Mar 09 11:49:33 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Thu Mar 09 11:49:33 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Thu Mar 09 11:49:33 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Thu Mar 09 11:49:33 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Thu Mar 09 11:49:33 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Thu Mar 09 11:49:33 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Thu Mar 09 11:49:33 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Thu Mar 09 11:49:36 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Thu Mar 09 11:53:00 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1678380570 now: 1678380780 time to merge: 3 (:0) 
+Sat Mar 11 11:25:07 EST 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Sat Mar 11 11:25:07 EST 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Sat Mar 11 11:25:07 EST 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Sat Mar 11 11:25:08 EST 2023 DATA se.d Build model matches: true 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Sat Mar 11 11:25:08 EST 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Sat Mar 11 11:25:08 EST 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Mar 11 11:25:08 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Sat Mar 11 11:25:09 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Sat Mar 11 11:25:09 EST 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Sat Mar 11 11:25:09 EST 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Sat Mar 11 11:25:09 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Mar 11 11:25:09 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Mar 11 11:25:09 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Sat Mar 11 11:25:09 EST 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Sat Mar 11 11:25:09 EST 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Sat Mar 11 11:25:09 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Sat Mar 11 11:25:09 EST 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Sat Mar 11 11:25:09 EST 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Sat Mar 11 11:25:09 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Sat Mar 11 11:25:09 EST 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Sat Mar 11 11:25:09 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sat Mar 11 11:25:09 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Sat Mar 11 11:25:09 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Sat Mar 11 11:25:09 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Sat Mar 11 11:25:09 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Sat Mar 11 11:25:09 EST 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Sat Mar 11 11:25:09 EST 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Sat Mar 11 11:25:09 EST 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Sat Mar 11 11:25:09 EST 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Sat Mar 11 11:25:09 EST 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Sat Mar 11 11:25:09 EST 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 24:06:53.000 and 30:06:53.000 from now 
+Sat Mar 11 11:25:09 EST 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Sat Mar 11 11:25:10 EST 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 755 
+Sat Mar 11 11:25:10 EST 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Sat Mar 11 11:25:10 EST 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Sat Mar 11 11:25:10 EST 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Sat Mar 11 11:25:10 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Sat Mar 11 11:25:10 EST 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Sat Mar 11 11:25:10 EST 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Sat Mar 11 11:25:10 EST 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
+Sat Mar 11 11:25:10 EST 2023 W CreationTimeTracker Skipping launch time telemetry because ramp is disabled 
+Sat Mar 11 11:27:12 EST 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Merge wal to database. before merge: 0 after merge: 0 first db action on: 1678551908 now: 1678552032 time to merge: 3 (:0) 
+Sat Mar 18 11:39:49 EDT 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Sat Mar 18 11:39:49 EDT 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Sat Mar 18 11:40:00 EDT 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Sat Mar 18 11:40:21 EDT 2023 DATA se.d Build model matches: true 
+Sat Mar 18 11:40:21 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Sat Mar 18 11:40:21 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Sat Mar 18 11:40:21 EDT 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Sat Mar 18 11:40:22 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Sat Mar 18 11:40:22 EDT 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Sat Mar 18 11:40:22 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Sat Mar 18 11:40:22 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Sat Mar 18 11:40:22 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Mar 18 11:40:22 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Mar 18 11:40:22 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 0 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Sat Mar 18 11:40:23 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Sat Mar 18 11:40:23 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Mar 18 11:40:23 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Mar 18 11:40:23 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Sat Mar 18 11:40:23 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Mar 18 11:40:23 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Mar 18 11:40:23 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Sat Mar 18 11:40:23 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Sat Mar 18 11:40:23 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Sat Mar 18 11:41:30 EDT 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Sat Mar 18 11:41:30 EDT 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Sat Mar 18 11:41:30 EDT 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Mon Mar 20 11:23:40 EDT 2023 DATA OneDSUtils OneDS channel not enabled. Version mitigation check failed with version 25 
+Mon Mar 20 11:23:40 EDT 2023 DATA com.microsoft.odsp.k Removing cached ramps not found on the backend 
+Mon Mar 20 11:23:40 EDT 2023 I com.microsoft.crossplaform.interop.n loadStaticLibraries 
+Mon Mar 20 11:23:40 EDT 2023 DATA se.d Build model matches: true 
+Mon Mar 20 11:23:40 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Application is not started (:0) 
+Mon Mar 20 11:23:40 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Starting application (:0) 
+Mon Mar 20 11:23:40 EDT 2023 W com.microsoft.odsp.crossplatform.core.LogWriterInterface WARNING: QApplication was not created in the main() thread. (:0) 
+Mon Mar 20 11:23:40 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Opening database  "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" (:0) 
+Mon Mar 20 11:23:41 EDT 2023 V WifiAvailableJob Scheduling a WifiAvailableJob job. 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Current DB version is  180 (:0) 
+Mon Mar 20 11:23:41 EDT 2023 DATA OneDrivePrivacyDelegate (I) DbUpgrade RequiredServiceData null null true 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Upgrading database to  181 (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Start upgrading logic from version:  180 (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Complete upgrading logic from version:  180 (:0) 
+Mon Mar 20 11:23:41 EDT 2023 DATA OneDrivePrivacyDelegate (Q) XPlat RequiredServiceData null null true 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Log the database file info (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db" size: 901120 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-shm" size: 32768 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface File: "/data/user/0/com.microsoft.skydrive/files/QTMetadata.db-wal" size: 41232 bytes permission: QFlags(0x200|0x400|0x2000|0x4000) (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface onAppLaunch: updates records:  0 (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Reset SP Lists Comments on Launch (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Deleted  0  PhotoStream comments (cLocalStatus = cAddingToServer) on launch. (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface Updated  0  PhotoStream comments (cLocalStatus = cDeletingFromServer or cFailedToDeleteFromServer) on launch. (:0) 
+Mon Mar 20 11:23:41 EDT 2023 I com.microsoft.odsp.crossplatform.core.LogWriterInterface cleanOrphanedCacheAsyncIfNecessary has the settings to run cleanup false (:0) 
+Mon Mar 20 11:23:42 EDT 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp state is set and locked to false for remainder of this session 
+Mon Mar 20 11:23:42 EDT 2023 DATA OneAuth Init adal's setUpSecretKey in SkyDriveApplication start - Skipping oneauth init because oneauth is not enabled 
+Mon Mar 20 11:23:42 EDT 2023 I com.microsoft.authorization.adal.c Build.VERSION.SDK_INT 25 
+Mon Mar 20 11:23:42 EDT 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Mar 20 11:23:42 EDT 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Mar 20 11:23:42 EDT 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Mon Mar 20 11:23:42 EDT 2023 DATA SamsungMigrationUpsellJob checkIfJobIsValid called() 
+Mon Mar 20 11:23:42 EDT 2023 DATA com.microsoft.authorization.oneauth.c Oneauth ramp is: false 
+Mon Mar 20 11:23:42 EDT 2023 DATA com.microsoft.authorization.cloudaccounts.b Read ServiceConnections list from preferences: 0 
+Mon Mar 20 11:23:42 EDT 2023 DATA com.microsoft.authorization.cloudaccounts.b Read hidden cloud account IDs list from preferences: 0 
+Mon Mar 20 11:23:42 EDT 2023 DATA DeviceAndApplicationInfo Pre: false 
+Mon Mar 20 11:23:42 EDT 2023 DATA DeviceAndApplicationInfo Pre: true 
+Mon Mar 20 11:23:42 EDT 2023 DATA OneDriveTokenProvider OneDriveTokenProvider#getAccounts() called 
+Mon Mar 20 11:23:42 EDT 2023 DATA OneDriveTokenProvider OneDriveTokenProvider.java#getAccounts(): 
+ Total Accounts found: 0 
+ OneAuth Accounts Shared: 0 
+ Total Accounts shared: 0 
+Mon Mar 20 11:23:42 EDT 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Mar 20 11:23:42 EDT 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Mon Mar 20 11:23:42 EDT 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Mar 20 11:23:42 EDT 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Mar 20 11:23:42 EDT 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Mon Mar 20 11:23:42 EDT 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Mon Mar 20 11:23:42 EDT 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob() called  
+Mon Mar 20 11:23:42 EDT 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Scheduling thread 
+Mon Mar 20 11:23:42 EDT 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): requestingToRunJob: true 
+Mon Mar 20 11:23:42 EDT 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread scheduled 
+Mon Mar 20 11:23:42 EDT 2023 DATA LocalNotificationDailyJob Running Daily Job 
+Mon Mar 20 11:23:42 EDT 2023 DATA SamsungAuthUtils retrieved SA-MSA migration status =ODUninitialized 
+Mon Mar 20 11:23:42 EDT 2023 I FileUploadUtils isSupportedAutoUploadAccountAvailable returned false because no supported account found. 
+Mon Mar 20 11:23:42 EDT 2023 DATA DailyJob com.microsoft.skydrive.jobs.LocalNotificationDailyJob.onStartJob(): Thread's finally block 
+Mon Mar 20 11:23:42 EDT 2023 DATA DailyJob Received request for com.microsoft.skydrive.jobs.LocalNotificationDailyJob to run between 11:00:00.000 and 17:00:00.000 (absolute time of day) 
+Mon Mar 20 11:23:42 EDT 2023 DATA DailyJob Scheduled time for com.microsoft.skydrive.jobs.LocalNotificationDailyJob is to run between 23:51:47.000 and 29:51:47.000 from now 
+Mon Mar 20 11:23:42 EDT 2023 DATA LocalNotificationDailyJob OnStopJob called 
+Mon Mar 20 11:23:42 EDT 2023 DATA PhotoStreamExperience initialize - trigger experience check 
+Mon Mar 20 11:23:43 EDT 2023 DATA SamsungAuthUtils Querying for Samsung migration status took: 1014 
+Mon Mar 20 11:23:43 EDT 2023 DATA OneDrivePrivacyDelegate (Q) QoS RequiredServiceData null null true 
+Mon Mar 20 11:23:43 EDT 2023 I SamsungMigrationUpsellJob Samsung migration info doesn't exist or isn't supported 
+Mon Mar 20 11:23:43 EDT 2023 DATA SamsungMigrationUpsellJob Job is not scheduled, no need to cancel it 
+Mon Mar 20 11:23:43 EDT 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Mon Mar 20 11:23:43 EDT 2023 DATA MeridianUpsellJob isEnabled: false, timesShown: 3, allAppsSetUp: false, areNotificationsEnabled, true, isChannelEnabled: true 
+Mon Mar 20 11:23:43 EDT 2023 DATA MeridianActivity isMeridianEnabled: true, isSamsungDevice: true, mockSamsungPreInstalled: false 
+Mon Mar 20 11:23:43 EDT 2023 DATA MeridianUpsellJob Job is not scheduled, no need to cancel it 
